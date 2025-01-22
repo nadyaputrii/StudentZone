@@ -1,3 +1,11 @@
+# StudentZone - Web Programming and Software Engineering Project
+StudentZone is the outcome of a project for the Web Programming and Software Engineering course, developed by a team of 3 members.
+
+## Team Profile
+- Muhammad Annys (Team Leader)
+- Muhamad Faqih Zacky (Member)
+- Nadya Putri Uswatun Hasanah (Member)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
