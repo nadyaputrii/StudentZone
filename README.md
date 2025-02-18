@@ -1,10 +1,27 @@
 # StudentZone - Web Programming and Software Engineering Project
+
+### WHAT IS STUDENTZONE?
+StudentZone is a comprehensive dashboard website designed as an integrated platform for managing classes and their members, supporting the learning process in classrooms. Its primary goal is to make the learning process more efficient.
+
+With features such as assignment tracking, schedule monitoring, announcements, and centralized access to lecture materials, this platform enables users to manage all aspects of their class activities without needing to switch between multiple platforms like Classroom, Spada, Siakad, OCW, and WhatsApp, which are usually used separately.
+
+The integration offered by StudentZone not only enhances efficiency in class management but also allows users to focus on learning without distractions from various platforms. Users can easily form study groups, view academic calendars, and share announcements directly.
 StudentZone is the outcome of a project for the Web Programming and Software Engineering course, developed by a team of 3 members.
 
+### Features
+- Managing and Adding Schedules and Members for Each Course
+- Class Member Management
+- Announcement Forum
+- Centralized Learning Materials Database
+- Assignment List
+- Dashboard for Quick Overview of All Features
+
 ## Team Profile
-- Muhammad Annys (Team Leader)
-- Muhamad Faqih Zacky (Member)
-- Nadya Putri Uswatun Hasanah (Member)
+
+### Our Team Members and Roles
+- Muhammad Annys (Team Leader) - Dashboard for Quick Overview of All Features
+- Muhamad Faqih Zacky (Member) - Managing and Adding Schedules and Members for Each Course and Class Member Management
+- Nadya Putri Uswatun Hasanah (Member) - Announcement Forum, Centralized Learning Materials Database, and Assignment List
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
