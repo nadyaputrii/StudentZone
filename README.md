@@ -1,6 +1,6 @@
 # StudentZone - Web Programming and Software Engineering Project
 
-### WHAT IS STUDENTZONE?
+### What is StudentZone?
 StudentZone is a comprehensive dashboard website designed as an integrated platform for managing classes and their members, supporting the learning process in classrooms. Its primary goal is to make the learning process more efficient.
 
 With features such as assignment tracking, schedule monitoring, announcements, and centralized access to lecture materials, this platform enables users to manage all aspects of their class activities without needing to switch between multiple platforms like Classroom, Spada, Siakad, OCW, and WhatsApp, which are usually used separately.
